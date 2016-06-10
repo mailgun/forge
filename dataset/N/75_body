@@ -1,0 +1,50 @@
+Start Date: 1/1/02; HourAhead hour: 20;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002010120.txt
+###Cannot locate a Preferred or Revised_Preferred Schedule that matches the FINAL Individual Interchange Schedule.  Unable to assign deal number.
+!!!General SQL error.
+Couldn't update; currently locked.
+Table
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  TIE_POINT: PVERDE_5_NG-PLV
+  INTERCHG_ID: EPMI_CISO_SW
+  ENGY_TYPE: FIRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  TIE_POINT: MEAD_2_WALC
+  INTERCHG_ID: ENRJ_CISO_8001
+  ENGY_TYPE: FIRM
+
+
+
+---- Load Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: SDG1
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  SC_ID: ENRJ

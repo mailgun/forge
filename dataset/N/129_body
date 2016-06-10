@@ -1,0 +1,14 @@
+Barry,  The information on the top 10 from your contract list
+
+1.  Duferco-Farrell Corp. - Could not find any contract in our database.  Do we have the name correct?
+2.  XTO Energy Inc. - There is no MAC clause in the contract.  So they can't terminate unless we fail to perform.  One way termination payment
+3.  Power Authority State of New York - No Master Found.  Only a GTC and Master Interruptible.
+4.  The Peoples Gas Light and Coke Company - Found an old Columbia Energy Marketing and Consolidated Natural Gas Company.  No MAC termination clause and no termination payment calculation.  If party fails to perform then other party can seek damages.
+5.  NUI Utilities, Inc.  - MAC Clause triggered at BBB-.  Two way termination payment
+6.  Louis Dreyfus Natural Gas - No Master found.  Just GTCs and a Master Spot
+7.  Florida Power and Light Company -  MAC Clause triggered at BBB-.  FPL can terminate unless we provide LC equal to their Termination Payment.  One way termination payment.
+8.  The American Coal Company - Couldn't find any contracts.
+9.  Trigen Energy Corporation (Found Trigen-Nassau Energy Corp.) - No MAC Clause.  No  specific remedy for default (i.e. termination payment)
+10.  PrimeSouth, Inc.  - Could not find any contracts
+
+Sorry for the delay.  Let me know if you need more information.
